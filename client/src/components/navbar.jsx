@@ -1,6 +1,6 @@
 import React from "react";
 
-export const navbar = () => {
+export const Navbar = () => {
   return (
     <div className="w-full flex items-center justify-between p-[30px] bg-slate-500">
       <div>
